@@ -27,3 +27,5 @@
 ---
 
 [リンクの文字](https://www.google.co.jp/)
+
+[test](./test.html)
